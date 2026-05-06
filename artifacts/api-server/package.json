@@ -16,11 +16,8 @@
     "cors": "^2",
     "drizzle-orm": "catalog:",
     "express": "^5",
-    "nanoid": "^5.1.9",
     "pino": "^9",
-    "pino-http": "^10",
-    "stripe": "20.0.0",
-    "stripe-replit-sync": "1.0.0"
+    "pino-http": "^10"
   },
   "devDependencies": {
     "@types/cookie-parser": "^1.4.10",
